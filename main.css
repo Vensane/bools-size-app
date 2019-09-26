@@ -1,0 +1,22 @@
+﻿body{
+    margin: 0;
+    background-color:#2f80c2;
+}
+
+.container{
+    width: 500px;
+    margin: 0 auto;
+    border: 3px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.boobs{
+  
+}
+
+.yoursize{
+    font-size: 30px;
+    color: white;
+}
